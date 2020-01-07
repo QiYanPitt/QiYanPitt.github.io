@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qi Yan"
   avatar           : "IMG_QiYan.JPG"
-  bio              : "Statistical Geneticist, Biostatistician and Bioinformatician <br><font color="blue">qiy17@pitt.edu</font>"
+  bio              : "Statistical Geneticist, Biostatistician and Bioinformatician" <br><font color="blue">qiy17@pitt.edu</font>
   location         : "4401 Penn Ave, Pittsburgh, PA 15224"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/browse/collection/58872094/?sort=date&direction=ascending"
