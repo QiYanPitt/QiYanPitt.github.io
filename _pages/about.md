@@ -10,8 +10,7 @@ redirect_from:
 
 Statistical Geneticist, Biostatistician and Bioinformatician
 <br>Research Assistant Professor in Department of Pediatrics
-
-UPMC Children's Hospital of Pittsburgh, University of Pittsburgh, Pittsburgh, PA
+<br>UPMC Children's Hospital of Pittsburgh, University of Pittsburgh, Pittsburgh, PA
 
     qiy17@pitt.edu; qi.yan@chp.edu
 
