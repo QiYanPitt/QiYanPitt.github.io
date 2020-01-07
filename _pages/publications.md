@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Peer Reviewed Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 1.	Kim, S., Forno, E.; Yan, Q., Jiang, Y., Zhang, R., Boutaoui, N., Acosta-Perez, E., Canino, G., Chen, W., Celedon, J.C. (2019). SNPs identified by GWAS affect asthma risk through DNA methylation and expression of cis-genes in airway epithelium. Eur Respir J doi:10.1183/13993003.02079-2019. 
-2. Yan, Q., Liu, N., Forno, E., Canino, G., Celedon, J.C., and Chen, W. (2019). [An integrative association method for omics data based on a modified Fisher's method with application to childhood asthma](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008142). PLoS Genet 15, e1008142.
+2. <b>Yan, Q.</b>, Liu, N., Forno, E., Canino, G., Celedon, J.C., and Chen, W. (2019). [An integrative association method for omics data based on a modified Fisher's method with application to childhood asthma](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008142). PLoS Genet 15, e1008142.
 3. Mandel, J., Wang, H., Normolle, D.P., Chen, W., Yan, Q., Lucas, P.C., Benos, P.V., and Prochownik, E.V. (2019). Expression patterns of small numbers of transcripts from functionally-related pathways predict survival in multiple cancers. BMC Cancer 19, 686.
 4. Rajakumar, K., Yan, Q., Khalid, A.T., Feingold, E., Vallejo, A.N., Demirci, F.Y., and Kamboh, M.I. (2019). Gene Expression and Cardiometabolic Phenotypes of Vitamin D-Deficient Overweight and Obese Black Children. Nutrients 11.
 5. Kamboh, M.I.*, Fan, K.H.*, Yan, Q.*, Beer, J.C., Snitz, B.E., Wang, X., Chang, C.H., Demirci, F.Y., Feingold, E., and Ganguli, M. (2019). Population-based genome-wide association study of cognitive decline in older adults free of dementia: identification of a novel locus for the attention domain. Neurobiol Aging. *co-first-author.
