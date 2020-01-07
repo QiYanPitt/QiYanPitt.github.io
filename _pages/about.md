@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-- Statistical Geneticist, Biostatistician and Bioinformatician
-- Research Assistant Professor in Department of Pediatrics
+Statistical Geneticist, Biostatistician and Bioinformatician
 
-- University of Pittsburgh, Pittsburgh, PA
-- Children's Hospital, Pittsburgh, PA
-- qiy17@pitt.edu; qi.yan@chp.edu
+Research Assistant Professor in Department of Pediatrics
+
+UPMC Children's Hospital of Pittsburgh, University of Pittsburgh, Pittsburgh, PA
+
+qiy17@pitt.edu; qi.yan@chp.edu
 
 Research Interest
 ======
