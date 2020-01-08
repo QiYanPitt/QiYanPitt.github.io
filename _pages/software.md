@@ -34,4 +34,11 @@ LKM
 -
 Gene Based Kernel Machine Regression for Quantitative Traits in Longitudinal Data
 * Source code: http://www.pitt.edu/~qiy17/Softwares/L-KM2.0
-* 
+* <b>Yan, Q.</b>, Weeks, D.E., Tiwari, H.K., Yi, N., Zhang, K., Gao, G., Lin, W.Y., Lou, X.Y., Chen, W., and Liu, N. (2015). [Rare-Variant Kernel Machine Test for Longitudinal Data from Population and Family Samples](https://www.karger.com/Article/Abstract/445057). *Hum Hered* 80, 126-138.
+
+LFKM
+-
+Gene Based Kernel Machine Regression for Quantitative Traits in Longitudinal Family Data
+* Source code: http://www.pitt.edu/~qiy17/Softwares/LF-KM2.0
+* <b>Yan, Q.</b>, Weeks, D.E., Tiwari, H.K., Yi, N., Zhang, K., Gao, G., Lin, W.Y., Lou, X.Y., Chen, W., and Liu, N. (2015). [Rare-Variant Kernel Machine Test for Longitudinal Data from Population and Family Samples](https://www.karger.com/Article/Abstract/445057). *Hum Hered* 80, 126-138.
+
