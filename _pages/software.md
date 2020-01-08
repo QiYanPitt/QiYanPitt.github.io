@@ -22,5 +22,10 @@ KMgene
 -
 A unified R package for gene-based association analysis for complex traits
 * Source code: https://cran.r-project.org/web/packages/KMgene/index.html
-* 
+* <b>Yan, Q.</b>, Fang, Z., and Chen, W. (2018). [KMgene: a unified R package for gene-based association analysis for complex traits](https://doi.org/10.1093/bioinformatics/bty066). *Bioinformatics* 34, 2144-2146.
 
+FSKAT
+-
+Gene Based SKAT for Binary Traits in Family Data
+* Source code: http://www.pitt.edu/~qiy17/Softwares/F-SKAT2.0
+* 
