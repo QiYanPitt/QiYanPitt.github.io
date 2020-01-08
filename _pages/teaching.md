@@ -7,12 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-Late AMD Fundus Image Prediction
+Foundations of Translational Bioinformatics (BIOINF 2016)
 -
-<iframe src="/images/Fig1.pdf#toolbar=0" width="90%" height="254px"></iframe>
-* Website: [http://www.pitt.edu/~qiy17/amdprediction.html](http://www.pitt.edu/~qiy17/amdprediction.html)
-* Source code: [https://github.com/QiYanPitt/AMDprogressCNN](https://github.com/QiYanPitt/AMDprogressCNN)
-* <b>Yan, Q.</b>, Weeks, D.E., Xin, H., Swaroop, A., Chew, E.Y., Huang, H., Ding, Y., and Chen, W. (2020). [Deep-learning-based Prediction of Late Age-Related Macular Degeneration Progression](https://www.medrxiv.org/content/10.1101/19006171v1) Accepted in *Nature Machine Intellegence*
+2019 spring
+* Genome-wide Association Study; Analysis of Next Generation Sequence Data
+<br><b>Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh, PA</b>
 
 Computer-Aided Risk Estimation for AMD in Caucasians
 -
