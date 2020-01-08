@@ -9,9 +9,9 @@ author_profile: true
 
 Foundations of Translational Bioinformatics (BIOINF 2016)
 ---
-date: 2019 spring
----
-* Genome-wide Association Study; Analysis of Next Generation Sequence Data
+2019 spring
+<br>Genome-wide Association Study; Analysis of Next Generation Sequence Data
+<br> 
 <br><b>Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh, PA</b>
 
 Computer-Aided Risk Estimation for AMD in Caucasians
