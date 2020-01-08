@@ -42,3 +42,14 @@ Gene Based Kernel Machine Regression for Quantitative Traits in Longitudinal Fam
 * Source code: http://www.pitt.edu/~qiy17/Softwares/LF-KM2.0
 * <b>Yan, Q.</b>, Weeks, D.E., Tiwari, H.K., Yi, N., Zhang, K., Gao, G., Lin, W.Y., Lou, X.Y., Chen, W., and Liu, N. (2015). [Rare-Variant Kernel Machine Test for Longitudinal Data from Population and Family Samples](https://www.karger.com/Article/Abstract/445057). *Hum Hered* 80, 126-138.
 
+MFKM
+-
+Gene Based Kernel Machine Regression for Quantitative Traits in Multivariate Family Data
+* Source code: http://www.pitt.edu/~qiy17/Softwares/MF-KM1.1
+* <b>Yan, Q.</b>, Weeks, D.E., Celedon, J.C., Tiwari, H.K., Li, B., Wang, X., Lin, W.Y., Lou, X.Y., Gao, G., Chen, W., et al. (2015). [Associating Multivariate Quantitative Phenotypes with Genetic Variants in Family Samples with a Novel Kernel Machine Regression Method](https://www.ncbi.nlm.nih.gov/pubmed/26482791). *Genetics* 201, 1329-1339. 
+
+DoubleWeightSKAT-ARTP
+-
+Pathway Based Method Testing the Significance of a Pathway
+* Source code: http://www.pitt.edu/~qiy17/Softwares/DoubleWeightSKAT-ARTP
+* 
