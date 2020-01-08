@@ -9,6 +9,7 @@ author_profile: true
 
 Late AMD Fundus Image Prediction
 -
+<a href="/images/Fig1.pdf">example</a>
 <img src='/images/Fig1.pdf'>
 * Website: [http://www.pitt.edu/~qiy17/amdprediction.html](http://www.pitt.edu/~qiy17/amdprediction.html)
 * Source code: [https://github.com/QiYanPitt/AMDprogressCNN](https://github.com/QiYanPitt/AMDprogressCNN)
