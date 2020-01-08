@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-1. <b>Yan, Q.</b>, Weeks, D.E., Xin, H., Swaroop, A., Chew, E.Y., Huang, H., Ding, Y., and Chen, W. (2020). [Deep-learning-based Prediction of Late Age-Related Macular Degeneration Progression](https://www.medrxiv.org/content/10.1101/19006171v1) Accepted in *Nature Machine Intellegence*
+1. <b>Yan, Q.</b>, Weeks, D.E., Xin, H., Swaroop, A., Chew, E.Y., Huang, H., Ding, Y., and Chen, W. (2020). [Deep-learning-based Prediction of Late Age-Related Macular Degeneration Progression](https://www.medrxiv.org/content/10.1101/19006171v1) Accepted in *Nature Machine Intelligence*
 1.	Kim, S., Forno, E.; <b>Yan, Q.</b>, Jiang, Y., Zhang, R., Boutaoui, N., Acosta-Perez, E., Canino, G., Chen, W., and Celedon, J.C. (2019). [SNPs identified by GWAS affect asthma risk through DNA methylation and expression of cis-genes in airway epithelium](https://www.ncbi.nlm.nih.gov/pubmed/31831581). *Eur Respir J* doi:10.1183/13993003.02079-2019. 
 2. <b>Yan, Q.</b>, Liu, N., Forno, E., Canino, G., Celedon, J.C., and Chen, W. (2019). [An integrative association method for omics data based on a modified Fisher's method with application to childhood asthma](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008142). *PLoS Genet* 15, e1008142.
 3. Mandel, J., Wang, H., Normolle, D.P., Chen, W., <b>Yan, Q.</b>, Lucas, P.C., Benos, P.V., and Prochownik, E.V. (2019). [Expression patterns of small numbers of transcripts from functionally-related pathways predict survival in multiple cancers](https://www.ncbi.nlm.nih.gov/pubmed/31299925). *BMC Cancer* 19, 686.
