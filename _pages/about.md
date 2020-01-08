@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Statistical Geneticist, Biostatistician and Bioinformatician
-<br>Research Assistant Professor in Department of Pediatrics
+*Statistical Geneticist, Biostatistician and Bioinformatician*
+<br>*Research Assistant Professor* in Department of Pediatrics
 <br>UPMC Children's Hospital of Pittsburgh, University of Pittsburgh, Pittsburgh, PA
 
 Research Interest
