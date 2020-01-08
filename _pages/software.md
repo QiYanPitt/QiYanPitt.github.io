@@ -52,4 +52,4 @@ DoubleWeightSKAT-ARTP
 -
 Pathway Based Method Testing the Significance of a Pathway
 * Source code: http://www.pitt.edu/~qiy17/Softwares/DoubleWeightSKAT-ARTP
-* 
+* <b>Yan, Q.</b>, Tiwari, H.K., Yi, N., Lin, W.Y., Gao, G., Lou, X.Y., Cui, X., and Liu, N. (2014). [Kernel-machine testing coupled with a rank-truncation method for genetic pathway analysis](https://www.ncbi.nlm.nih.gov/pubmed/24849109). *Genet Epidemiol* 38, 447-456.
