@@ -22,7 +22,7 @@ Computer-Aided Risk Estimation for AMD in Caucasians
 KMgene
 -
 <iframe src="/images/KMgene.pdf#toolbar=0" width="80%" height="140px"></iframe>
-<br>A unified R package for gene-based association analysis for complex traits
+A unified R package for gene-based association analysis for complex traits
 * Source code: [https://cran.r-project.org/web/packages/KMgene/index.html](https://cran.r-project.org/web/packages/KMgene/index.html)
 * <b>Yan, Q.</b>, Fang, Z., and Chen, W. (2018). [KMgene: a unified R package for gene-based association analysis for complex traits](https://doi.org/10.1093/bioinformatics/bty066). *Bioinformatics* 34, 2144-2146.
 
