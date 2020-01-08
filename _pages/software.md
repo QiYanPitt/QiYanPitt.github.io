@@ -28,4 +28,10 @@ FSKAT
 -
 Gene Based SKAT for Binary Traits in Family Data
 * Source code: http://www.pitt.edu/~qiy17/Softwares/F-SKAT2.0
+* <b>Yan, Q.</b>, Tiwari, H.K., Yi, N., Gao, G., Zhang, K., Lin, W.Y., Lou, X.Y., Cui, X., and Liu, N. (2015). [A Sequence Kernel Association Test for Dichotomous Traits in Family Samples under a Generalized Linear Mixed Model](https://www.ncbi.nlm.nih.gov/pubmed/25791389). *Hum Hered* 79, 60-68.
+
+LKM
+-
+Gene Based Kernel Machine Regression for Quantitative Traits in Longitudinal Data
+* Source code: http://www.pitt.edu/~qiy17/Softwares/L-KM2.0
 * 
