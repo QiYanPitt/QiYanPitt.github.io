@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/CurriculumVitae_QiYan.pdf#toolbar=0" width="95%" height="1500px"></iframe>
+<iframe src="/files/CurriculumVitae_QiYan.pdf#toolbar=0" width="95%" height="1000px"></iframe>
