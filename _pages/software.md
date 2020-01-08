@@ -11,7 +11,7 @@ Late AMD Fundus Image Prediction
 ======
 * Website: http://www.pitt.edu/~qiy17/amdprediction.html
 * Source code: https://github.com/QiYanPitt/AMDprogressCNN
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* <b>Yan, Q.</b>, Weeks, D.E., Xin, H., Swaroop, A., Chew, E.Y., Huang, H., Ding, Y., and Chen, W. (2020). [Deep-learning-based Prediction of Late Age-Related Macular Degeneration Progression](https://www.medrxiv.org/content/10.1101/19006171v1) Accepted in *Nature Machine Intellegence*
 
 Work experience
 ======
