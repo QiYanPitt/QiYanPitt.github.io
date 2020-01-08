@@ -9,7 +9,7 @@ author_profile: true
 
 Foundations of Translational Bioinformatics (BIOINF 2016)
 -
-2019 spring
+date: 2019 spring
 * Genome-wide Association Study; Analysis of Next Generation Sequence Data
 <br><b>Department of Biomedical Informatics, University of Pittsburgh, Pittsburgh, PA</b>
 
