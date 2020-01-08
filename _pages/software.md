@@ -29,29 +29,29 @@ A unified R package for gene-based association analysis for complex traits
 FSKAT
 -
 Gene Based SKAT for Binary Traits in Family Data
-* Source code: [http://www.pitt.edu/~qiy17/Softwares/F-SKAT2.0.zip](http://www.pitt.edu/~qiy17/Softwares/F-SKAT2.0.zip)
+* Source code: [http://www.pitt.edu/~qiy17/Softwares/F-SKAT2.0.zip](http://www.pitt.edu/~qiy17/Software/F-SKAT2.0.zip)
 * <b>Yan, Q.</b>, Tiwari, H.K., Yi, N., Gao, G., Zhang, K., Lin, W.Y., Lou, X.Y., Cui, X., and Liu, N. (2015). [A Sequence Kernel Association Test for Dichotomous Traits in Family Samples under a Generalized Linear Mixed Model](https://www.ncbi.nlm.nih.gov/pubmed/25791389). *Hum Hered* 79, 60-68.
 
 LKM
 -
 Gene Based Kernel Machine Regression for Quantitative Traits in Longitudinal Data
-* Source code: [http://www.pitt.edu/~qiy17/Softwares/L-KM2.0.zip](http://www.pitt.edu/~qiy17/Softwares/L-KM2.0.zip)
+* Source code: [http://www.pitt.edu/~qiy17/Softwares/L-KM2.0.zip](http://www.pitt.edu/~qiy17/Software/L-KM2.0.zip)
 * <b>Yan, Q.</b>, Weeks, D.E., Tiwari, H.K., Yi, N., Zhang, K., Gao, G., Lin, W.Y., Lou, X.Y., Chen, W., and Liu, N. (2015). [Rare-Variant Kernel Machine Test for Longitudinal Data from Population and Family Samples](https://www.karger.com/Article/Abstract/445057). *Hum Hered* 80, 126-138.
 
 LFKM
 -
 Gene Based Kernel Machine Regression for Quantitative Traits in Longitudinal Family Data
-* Source code: [http://www.pitt.edu/~qiy17/Softwares/LF-KM2.0.zip](http://www.pitt.edu/~qiy17/Softwares/LF-KM2.0.zip)
+* Source code: [http://www.pitt.edu/~qiy17/Softwares/LF-KM2.0.zip](http://www.pitt.edu/~qiy17/Software/LF-KM2.0.zip)
 * <b>Yan, Q.</b>, Weeks, D.E., Tiwari, H.K., Yi, N., Zhang, K., Gao, G., Lin, W.Y., Lou, X.Y., Chen, W., and Liu, N. (2015). [Rare-Variant Kernel Machine Test for Longitudinal Data from Population and Family Samples](https://www.karger.com/Article/Abstract/445057). *Hum Hered* 80, 126-138.
 
 MFKM
 -
 Gene Based Kernel Machine Regression for Quantitative Traits in Multivariate Family Data
-* Source code: [http://www.pitt.edu/~qiy17/Softwares/MF-KM1.1.zip](http://www.pitt.edu/~qiy17/Softwares/MF-KM1.1.zip)
+* Source code: [http://www.pitt.edu/~qiy17/Softwares/MF-KM1.1.zip](http://www.pitt.edu/~qiy17/Software/MF-KM1.1.zip)
 * <b>Yan, Q.</b>, Weeks, D.E., Celedon, J.C., Tiwari, H.K., Li, B., Wang, X., Lin, W.Y., Lou, X.Y., Gao, G., Chen, W., et al. (2015). [Associating Multivariate Quantitative Phenotypes with Genetic Variants in Family Samples with a Novel Kernel Machine Regression Method](https://www.ncbi.nlm.nih.gov/pubmed/26482791). *Genetics* 201, 1329-1339. 
 
 DoubleWeightSKAT-ARTP
 -
 Pathway Based Method Testing the Significance of a Pathway
-* Source code: [http://www.pitt.edu/~qiy17/Softwares/DoubleWeightSKAT-ARTP.zip](http://www.pitt.edu/~qiy17/Softwares/DoubleWeightSKAT-ARTP.zip)
+* Source code: [http://www.pitt.edu/~qiy17/Softwares/DoubleWeightSKAT-ARTP.zip](http://www.pitt.edu/~qiy17/Software/DoubleWeightSKAT-ARTP.zip)
 * <b>Yan, Q.</b>, Tiwari, H.K., Yi, N., Lin, W.Y., Gao, G., Lou, X.Y., Cui, X., and Liu, N. (2014). [Kernel-machine testing coupled with a rank-truncation method for genetic pathway analysis](https://www.ncbi.nlm.nih.gov/pubmed/24849109). *Genet Epidemiol* 38, 447-456.
