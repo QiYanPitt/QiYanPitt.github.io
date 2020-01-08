@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Education
+Late AMD Fundus Image Prediction
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
+* Website: http://www.pitt.edu/~qiy17/amdprediction.html
+* Source code: https://github.com/QiYanPitt/AMDprogressCNN
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
