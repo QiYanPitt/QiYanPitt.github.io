@@ -8,6 +8,8 @@ author_profile: true
 {% include base_path %}
 
 1.	Yan Q. “Deep-learning-based Prediction of Late Age Related Macular Degeneration Progression” ASHG Conference. Poster. October 17, 2019
+<a href="/files/ASHG_2019.pdf">example</a>
+
 2.	Yan Q. “KMgene: a unified R package for gene-based association analysis for complex traits” ASHG Conference. Poster. October 19, 2018
 3.	Yan Q. “Genome-wide analysis of age-related macular degeneration progression” ASHG Conference. Poster. October 19, 2017
 4.	Yan Q. “An Omnibus Test for Gene-Level Effects of Multi-Omics Data with Application to Childhood Asthma” ICSA Conference (Shanghai, China). Platform talk. December 22, 2016
