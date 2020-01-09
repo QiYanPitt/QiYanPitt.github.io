@@ -3,10 +3,10 @@
 <div style="background-color:#cccccc; overflow: auto;" class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div style="background-color:#cccccc; overflow: auto;" class="navicon"></div></button>
+      <nav id="site-nav" style="background-color:#cccccc; overflow: auto;" class="greedy-nav">
+        <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
+          <li style="background-color:#cccccc; overflow: auto;" class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
