@@ -16,7 +16,7 @@ Deep Learning
 
 Multi-Omics Data
 -
-<iframe src="/files/Omnibus.pdf#toolbar=0" width="90%" height="400px"></iframe>
+<iframe src="/files/Omnibus.pdf#toolbar=0" width="70%" height="450px"></iframe>
 * Source code: [https://cran.r-project.org/web/packages/OmnibusFisher/index.html](https://cran.r-project.org/web/packages/OmnibusFisher/index.html)
 * <b>Yan, Q.</b>, Liu, N., Forno, E., Canino, G., Celedon, J.C., and Chen, W. (2019). [An integrative association method for omics data based on a modified Fisher's method with application to childhood asthma](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008142). *PLoS Genet* 15, e1008142.
 
