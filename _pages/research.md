@@ -16,7 +16,7 @@ Deep Learning
 
 Multi-Omics Data
 -
-<iframe src="/files/Omnibus.pdf#toolbar=0" width="67%" height="470px"></iframe>
+<iframe src="/files/Omnibus.pdf#toolbar=0" width="67%" height="460px"></iframe>
 * Source code: [https://cran.r-project.org/web/packages/OmnibusFisher/index.html](https://cran.r-project.org/web/packages/OmnibusFisher/index.html)
 * <b>Yan, Q.</b>, Liu, N., Forno, E., Canino, G., Celedon, J.C., and Chen, W. (2019). [An integrative association method for omics data based on a modified Fisher's method with application to childhood asthma](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008142). *PLoS Genet* 15, e1008142.
 
@@ -24,7 +24,7 @@ Multi-Omics Data
 
 Allelic Imbalance
 -
-<iframe src="/files/AI.pdf#toolbar=0" width="80%" height="290px"></iframe>
+<iframe src="/files/AI.pdf#toolbar=0" width="80%" height="295px"></iframe>
 * Source code: [https://github.com/QiYanPitt/CHIT](https://github.com/QiYanPitt/CHIT)
 
 Methods for Genetic Association Tests
