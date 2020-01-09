@@ -26,7 +26,7 @@ Multi-Omics Data
 
 Allelic Imbalance
 -
-<iframe src="/files/AI.pdf#toolbar=0" width="80%" height="300px"></iframe>
+<iframe src="/files/AI.pdf#toolbar=0" width="80%" height="310px"></iframe>
 * Source code: [https://github.com/QiYanPitt/CHIT](https://github.com/QiYanPitt/CHIT)
 
 Methods for Genetic Association Tests
