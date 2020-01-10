@@ -19,6 +19,12 @@ Computer-Aided Risk Estimation for AMD in Caucasians
 * Website: [https://yanq.shinyapps.io/no_vs_amd_NN/](https://yanq.shinyapps.io/no_vs_amd_NN/)
 * <b>Yan, Q.</b>, Jiang, Y., Huang, H., Swaroop, A., Chew, E.Y., Weeks, D.E., Chen, W., and Ding, Y. (2020). [GWAS-based Machine Learning for Prediction of Age-Related Macular Degeneration Risk](https://www.medrxiv.org/content/10.1101/19006155v1)
 
+Multi-Omics Data
+-
+<iframe src="/files/Omnibus.pdf#toolbar=0" width="67%" height="455px"></iframe>
+* Source code: [https://cran.r-project.org/web/packages/OmnibusFisher/index.html](https://cran.r-project.org/web/packages/OmnibusFisher/index.html)
+* <b>Yan, Q.</b>, Liu, N., Forno, E., Canino, G., Celedon, J.C., and Chen, W. (2019). [An integrative association method for omics data based on a modified Fisher's method with application to childhood asthma](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008142). *PLoS Genet* 15, e1008142.
+
 KMgene
 -
 <iframe src="/images/KMgene.pdf#toolbar=0" width="80%" height="140px"></iframe>
