@@ -34,6 +34,6 @@ Age-related Macular Degeneration
 
 Alzheimer's Disease
 -
-![Editing a markdown file for a talk](/images/alzheimer.jpg)
+![Editing a markdown file for a talk](/images/alzheimer.jpg) 
 * <b>Yan, Q.</b>, Nho, K., Del-Aguila, J.L., Wang, X., Risacher, S.L., Fan, K.H., Snitz, B.E., Aizenstein, H.J., Mathis, C.A., Lopez, O.L., et al. (2018). [Genome-wide association study of brain amyloid deposition as measured by Pittsburgh Compound-B (PiB)-PET imaging](https://www.ncbi.nlm.nih.gov/pubmed/30361487). *Mol Psychiatry*.
 * Kamboh, M.I.^, Fan, K.H.^, <b>Yan, Q.</b>^, Beer, J.C., Snitz, B.E., Wang, X., Chang, C.H., Demirci, F.Y., Feingold, E., and Ganguli, M. (2019). [Population-based genome-wide association study of cognitive decline in older adults free of dementia: identification of a novel locus for the attention domain](https://www.ncbi.nlm.nih.gov/pubmed/30954325). *Neurobiol Aging*. ^co-first-author.
