@@ -26,6 +26,7 @@ Asthma and lung functions
 
 Age-related Macular Degeneration
 -
+![Editing a markdown file for a talk](/images/AMD.jpg)
 ![Editing a markdown file for a talk](/images/alzheimer.jpg)
 * <b>Yan, Q.</b>, Weeks, D.E., Xin, H., Swaroop, A., Chew, E.Y., Huang, H., Ding, Y., and Chen, W. (2020). [Deep-learning-based Prediction of Late Age-Related Macular Degeneration Progression](https://www.medrxiv.org/content/10.1101/19006171v1) *Nature Machine Intellegence* in press.
 * <b>Yan, Q.</b>, Jiang, Y., Huang, H., Swaroop, A., Chew, E.Y., Weeks, D.E., Chen, W., and Ding, Y. (2020). [GWAS-based Machine Learning for Prediction of Age-Related Macular Degeneration Risk](https://www.medrxiv.org/content/10.1101/19006155v1) *Journal of the Royal Statistical Society, Series A* under review.
@@ -34,6 +35,6 @@ Age-related Macular Degeneration
 
 Alzheimer's Disease
 -
-![Editing a markdown file for a talk](/images/AMD.jpg)
+![Editing a markdown file for a talk](/images/alzheimer.jpg)
 * <b>Yan, Q.</b>, Nho, K., Del-Aguila, J.L., Wang, X., Risacher, S.L., Fan, K.H., Snitz, B.E., Aizenstein, H.J., Mathis, C.A., Lopez, O.L., et al. (2018). [Genome-wide association study of brain amyloid deposition as measured by Pittsburgh Compound-B (PiB)-PET imaging](https://www.ncbi.nlm.nih.gov/pubmed/30361487). *Mol Psychiatry*.
 * Kamboh, M.I.^, Fan, K.H.^, <b>Yan, Q.</b>^, Beer, J.C., Snitz, B.E., Wang, X., Chang, C.H., Demirci, F.Y., Feingold, E., and Ganguli, M. (2019). [Population-based genome-wide association study of cognitive decline in older adults free of dementia: identification of a novel locus for the attention domain](https://www.ncbi.nlm.nih.gov/pubmed/30954325). *Neurobiol Aging*. ^co-first-author.
