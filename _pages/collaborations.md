@@ -26,6 +26,7 @@ Asthma and lung functions
 
 Age-related Macular Degeneration
 -
+![Editing a markdown file for a talk](/images/alzheimer.jpg)
 * <b>Yan, Q.</b>, Weeks, D.E., Xin, H., Swaroop, A., Chew, E.Y., Huang, H., Ding, Y., and Chen, W. (2020). [Deep-learning-based Prediction of Late Age-Related Macular Degeneration Progression](https://www.medrxiv.org/content/10.1101/19006171v1) *Nature Machine Intellegence* in press.
 * <b>Yan, Q.</b>, Jiang, Y., Huang, H., Swaroop, A., Chew, E.Y., Weeks, D.E., Chen, W., and Ding, Y. (2020). [GWAS-based Machine Learning for Prediction of Age-Related Macular Degeneration Risk](https://www.medrxiv.org/content/10.1101/19006155v1) *Journal of the Royal Statistical Society, Series A* under review.
 * <b>Yan, Q.</b>, Ding, Y., Liu, Y., Sun, T., Fritsche, L.G., Clemons, T., Ratnapriya, R., Klein, M.L., Cook, R.J., Liu, Y., et al. (2018). [Genome-wide analysis of disease progression in age-related macular degeneration](https://academic.oup.com/hmg/article/27/5/929/4810717). *Hum Mol Genet* 27, 929-940.
