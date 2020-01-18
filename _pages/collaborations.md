@@ -27,13 +27,11 @@ Asthma and lung functions
 Age-related Macular Degeneration
 -
 * <b>Yan, Q.</b>, Weeks, D.E., Xin, H., Swaroop, A., Chew, E.Y., Huang, H., Ding, Y., and Chen, W. (2020). [Deep-learning-based Prediction of Late Age-Related Macular Degeneration Progression](https://www.medrxiv.org/content/10.1101/19006171v1) *Nature Machine Intellegence* in press.
+* <b>Yan, Q.</b>, Jiang, Y., Huang, H., Swaroop, A., Chew, E.Y., Weeks, D.E., Chen, W., and Ding, Y. (2020). [GWAS-based Machine Learning for Prediction of Age-Related Macular Degeneration Risk](https://www.medrxiv.org/content/10.1101/19006155v1) *Journal of the Royal Statistical Society, Series A* under review.
+* <b>Yan, Q.</b>, Ding, Y., Liu, Y., Sun, T., Fritsche, L.G., Clemons, T., Ratnapriya, R., Klein, M.L., Cook, R.J., Liu, Y., et al. (2018). [Genome-wide analysis of disease progression in age-related macular degeneration](https://academic.oup.com/hmg/article/27/5/929/4810717). *Hum Mol Genet* 27, 929-940.
+* Ding, Y., Liu, Y., <b>Yan, Q.</b>, Fritsche, L.G., Cook, R.J., Clemons, T., Ratnapriya, R., Klein, M.L., Abecasis, G.R., Swaroop, A., et al. (2017). [Bivariate Analysis of Age-Related Macular Degeneration Progression Using Genetic Risk Scores](http://www.genetics.org/content/early/2017/03/21/genetics.116.196998). *Genetics* 206, 119-133.
 
-Multi-Omics Data
+Alzheimer's Disease
 -
-<iframe src="/files/Omnibus.pdf#toolbar=0" width="67%" height="455px"></iframe>
-* Source code: [https://cran.r-project.org/web/packages/OmnibusFisher/index.html](https://cran.r-project.org/web/packages/OmnibusFisher/index.html)
-* <b>Yan, Q.</b>, Liu, N., Forno, E., Canino, G., Celedon, J.C., and Chen, W. (2019). [An integrative association method for omics data based on a modified Fisher's method with application to childhood asthma](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008142). *PLoS Genet* 15, e1008142.
-<br>
-<br>
-<iframe src="/files/PRKCH.pdf#toolbar=0" width="67%" height="445px"></iframe>
-* <a href="/files/PRKCH_poster.pdf">Poster</a>
+* <b>Yan, Q.</b>, Nho, K., Del-Aguila, J.L., Wang, X., Risacher, S.L., Fan, K.H., Snitz, B.E., Aizenstein, H.J., Mathis, C.A., Lopez, O.L., et al. (2018). [Genome-wide association study of brain amyloid deposition as measured by Pittsburgh Compound-B (PiB)-PET imaging](https://www.ncbi.nlm.nih.gov/pubmed/30361487). *Mol Psychiatry*.
+* Kamboh, M.I.^, Fan, K.H.^, <b>Yan, Q.</b>^, Beer, J.C., Snitz, B.E., Wang, X., Chang, C.H., Demirci, F.Y., Feingold, E., and Ganguli, M. (2019). [Population-based genome-wide association study of cognitive decline in older adults free of dementia: identification of a novel locus for the attention domain](https://www.ncbi.nlm.nih.gov/pubmed/30954325). *Neurobiol Aging*. ^co-first-author.
