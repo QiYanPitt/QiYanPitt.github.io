@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Collaborations by disease categories"
+title: "Collaboration works by disease categories"
 permalink: /collaborations/
 author_profile: true
 ---
