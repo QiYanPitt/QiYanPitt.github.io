@@ -9,7 +9,7 @@ author_profile: true
 
 Asthma and lung functions
 -
-[Editing a markdown file for a talk](/images/lung.png)
+[Editing a markdown file for a talk](/images/lung.jpg)
 * <b>Yan, Q.</b>, Brehm, J., Pino-Yanes, M., Forno, E., Lin, J., Oh, S.S., Acosta-Perez, E., Laurie, C.C., Cloutier, M.M., Raby, B.A., et al. (2017). [A meta-analysis of genome-wide association studies of asthma in Puerto Ricans](https://www.ncbi.nlm.nih.gov/pubmed/28461288). *Eur Respir J* 49. <b>With an accompanying Editorial</b>.
 * <b>Yan, Q.</b>, Forno, E., Herrera-Luis, E., Pino-Yanes, M., Rios, R., Oh, S., Acosta-Pérez, E., Hu, D., Eng, C., Huntsman, S., et al. *PRKCH* and severe asthma exacerbations in Latino children. In preparation.
 * <b>Yan, Q.</b>, Cardenas, A., Forno, E., Qi, C., Han, Y.Y., Acosta-Pérez, E., Zhang, R., Boutaoui, N., Canino, G., Chen, W., et al. Exposure to violence, chronic stress, DNA methylation, and asthma in children. In preparation.
