@@ -11,7 +11,7 @@ Statistical Genetics (HUGEN 2080)
 -
 2020 spring
 <br>Genetic Rare Variant Test
-<br>Downloads: <a href="/files/statistical_gene_rare_variant_test.pdf">Genetic Rare Variant Test</a>
+<br>Downloads: <a href="/files/statistical_gene_rare_variant_test.pdf">Genetic Rare Variant Test</a>; <a href="/files/Guest_Lecture_CNN.pdf">CNN</a>
 <br><b>Department of Human Genetics, University of Pittsburgh, Pittsburgh, PA</b>
 
 Foundations of Translational Bioinformatics (BIOINF 2016)
