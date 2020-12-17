@@ -10,9 +10,6 @@ author_profile: true
 Asthma and lung functions
 -
 ![Editing a markdown file for a talk](/images/lung.png)
-1. 
-2. 
-
 * <b>Yan, Q.</b>, Forno, E., Yang, G., Herrera-Luis, E., Pino-Yanes, M., et al. (2020). [A genome-wide association study of asthma hospitalizations in adults](https://www.jacionline.org/article/S0091-6749(20)31224-0/fulltext). *J Allergy Clin Immunol*. <b>Chosen by the Editors to be highlighted in the AAAAI website</b>.
 * <b>Yan, Q.</b>, Forno, E., Herrera-Luis, E., Pino-Yanes, M., Qi, C., et al. (2020). [A genome-wide association study of severe asthma exacerbations in Latino children and adolescents](https://erj.ersjournals.com/content/early/2020/10/02/13993003.02693-2020). *Eur Respir J*.
 * <b>Yan, Q.</b>, Brehm, J., Pino-Yanes, M., Forno, E., Lin, J., et al. (2017). [A meta-analysis of genome-wide association studies of asthma in Puerto Ricans](https://www.ncbi.nlm.nih.gov/pubmed/28461288). *Eur Respir J*. <b>With an accompanying Editorial</b>.
