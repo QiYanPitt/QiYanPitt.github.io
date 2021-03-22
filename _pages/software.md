@@ -36,7 +36,7 @@ MRmediation
 -
 A Causal Mediation Method with Methylated Region (MR) as the Mediator
 * Source code: [https://cran.r-project.org/web/packages/MRmediation/index.html](https://cran.r-project.org/web/packages/MRmediation/index.html)
-* <b>Yan, Q.</b>, Forno, E., Celedon, J.C. and Chen, W. “A region based method for causal mediation analysis of DNA methylation data”. Under revision in *Epigenetics*.
+* <b>Yan, Q.</b>, Forno, E., Celedon, J.C. and Chen, W. “A region based method for causal mediation analysis of DNA methylation data”. *Epigenetics*.
 
 FSKAT
 -
