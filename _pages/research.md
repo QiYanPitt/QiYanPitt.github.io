@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Latest research"
+title: "Latest methodology research"
 permalink: /research/
 author_profile: true
 ---
