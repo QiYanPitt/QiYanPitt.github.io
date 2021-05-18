@@ -9,7 +9,7 @@ author_profile: true
 
 Mediation
 -
-<iframe src="/images/Mediation.pdf#toolbar=0" width="90%" height="256px"></iframe>
+<iframe src="/files/Mediation.pdf#toolbar=0" width="90%" height="256px"></iframe>
 * Source code: [https://cran.r-project.org/web/packages/MRmediation/index.html](https://cran.r-project.org/web/packages/MRmediation/index.html)
 * <b>Yan, Q.</b>, Forno, E., Celedon, J.C., and Chen, W. (2021). [A region-based method for causal mediation analysis of DNA methylation data](https://www.tandfonline.com/doi/abs/10.1080/15592294.2021.1900026?journalCode=kepi20). *Epigenetics* in press.
 
