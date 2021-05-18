@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+1.	Yan Q. <a href="/files/ASHG_2020.pdf">“Allele-specific method for testing the association between gene expression and phenotype-genotype interaction”</a> ASHG Virtual Conference. Poster. October 27-30, 2020
 1.	Yan Q. <a href="/files/ASHG_2019.pdf">“Deep-learning-based Prediction of Late Age Related Macular Degeneration Progression”</a> ASHG Conference. Poster. October 17, 2019
 2.	Yan Q. <a href="/files/ASHG_2018.pdf">“KMgene: a unified R package for gene-based association analysis for complex traits”</a> ASHG Conference. Poster. October 19, 2018
 3.	Yan Q. <a href="/files/ASHG_2017.pdf">“Genome-wide analysis of age-related macular degeneration progression”</a> ASHG Conference. Poster. October 19, 2017
