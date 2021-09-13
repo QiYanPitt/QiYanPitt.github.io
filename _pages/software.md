@@ -32,9 +32,15 @@ A unified R package for gene-based association analysis for complex traits
 * Source code: [https://cran.r-project.org/web/packages/KMgene/index.html](https://cran.r-project.org/web/packages/KMgene/index.html)
 * <b>Yan, Q.</b>, Fang, Z., and Chen, W. (2018). [KMgene: a unified R package for gene-based association analysis for complex traits](https://doi.org/10.1093/bioinformatics/bty066). *Bioinformatics*.
 
+CHIT
+-
+Combined Haplotype Interaction Test (CHIT)
+* Source code: [https://github.com/QiYanPitt/CHIT](https://github.com/QiYanPitt/CHIT)
+* <b>Yan, Q.</b>, Forno, E., Celedon, J.C., Chen. W., Weeks, D.E. (2021). [Allele-specific method for testing the association between molecular quantitative traits and phenotype-genotype interaction](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab554/6330611). *Bioinformatics*.
+
 MRmediation
 -
-A Causal Mediation Method with Methylated Region (MR) as the Mediator
+Causal Mediation Method with Methylated Region (MR) as the Mediator
 * Source code: [https://cran.r-project.org/web/packages/MRmediation/index.html](https://cran.r-project.org/web/packages/MRmediation/index.html)
 * <b>Yan, Q.</b>, Forno, E., Celedon, J.C. and Chen, W. “A region based method for causal mediation analysis of DNA methylation data”. *Epigenetics*.
 
