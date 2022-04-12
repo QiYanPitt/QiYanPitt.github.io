@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Qi Yan (闫琪)"
+title: "Qi Yan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+(闫琪)
+======
 *Statistical Geneticist, Biostatistician and Bioinformatician*
 <br>*Assistant Professor* in Department of Obstetrics & Gynecology
 <br>Columbia University, New York, NY
