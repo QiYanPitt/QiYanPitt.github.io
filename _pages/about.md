@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qi Yan"
+title: "Qi Yan (闫琪)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
