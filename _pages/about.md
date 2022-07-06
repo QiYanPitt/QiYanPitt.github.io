@@ -15,7 +15,8 @@ redirect_from:
 
 Research Interest
 ======
-My primary research interests lie broadly in statistical genetics and bioinformatics. In particular, I am interested in application of cutting-edge technologies (e.g., sequencing technology) for analysis of high-throughput genetic and genomic data, and development of statistical and computational methods.
+My primary research interests lie broadly in statistical genetics and bioinformatics. In particular, I am interested in application of cutting-edge technologies (e.g., sequencing technology) for analysis of high-throughput genetic and genomic data, and development of statistical and computational methods. Although my research is not limited to diseases, I'm more experienced in adverse pregnancy outcomes, childhood asthma, and age-related macular degeneration.
+- Genetic data analysis (e.g., GWAS and Mendelian Randomization)
 - Statistical method development in multi-omics data analysis
-- Disease prediction using machine learning approaches (e.g., deep learning)
-- Lung and Eye related diseases
+- Disease prediction using machine learning/deep learning approaches
+- Pre-clinical and clinical trials design and analysis
