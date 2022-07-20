@@ -10,7 +10,7 @@ author_profile: true
 Late AMD Fundus Image Prediction
 -
 <iframe src="/images/Fig1.pdf#toolbar=0" width="90%" height="256px"></iframe>
-* Website: [http://www.pitt.edu/~qiy17/amdprediction.html](http://54.242.15.216/calculator/)
+* Website: [http://54.242.15.216/calculator/](http://54.242.15.216/calculator/)
 * Source code: [https://github.com/QiYanPitt/AMDprogressCNN](https://github.com/QiYanPitt/AMDprogressCNN)
 * <b>Yan, Q.</b>, Weeks, D.E., Xin, H., Swaroop, A., Chew, E.Y., Huang, H., Ding, Y., and Chen, W. (2020). [Deep-learning-based Prediction of Late Age-Related Macular Degeneration Progression](https://www.nature.com/articles/s42256-020-0154-9.epdf?author_access_token=ytmgnX1807mH5XIqctD70NRgN0jAjWel9jnR3ZoTv0PEfAOwkHt47te-T29RleTSe9oHXYrJmvV2kI8DSjCGvvJJ2UNPwgtcl5H-tThiXXjuj_zR8X1zt5G1gXJJEL0oiV6ttgo-2tQKy4cqFw3lQw%3D%3D) *Nature Machine Intelligence*.
 
