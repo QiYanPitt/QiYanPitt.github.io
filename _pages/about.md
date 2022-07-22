@@ -10,7 +10,7 @@ redirect_from:
 (闫琪)
 ======
 *Statistical Geneticist, Biostatistician and Bioinformatician*
-<br>*Assistant Professor* in Department of Obstetrics & Gynecology
+<br>*Assistant Professor (tenure track)* in Department of Obstetrics & Gynecology
 <br>Columbia University, New York, NY
 
 Research Interest
