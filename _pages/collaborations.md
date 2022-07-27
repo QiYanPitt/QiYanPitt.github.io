@@ -10,10 +10,13 @@ author_profile: true
 Asthma and lung functions
 -
 ![Editing a markdown file for a talk](/images/lung.png)
-* <b>Yan, Q.</b>, Forno, E., Cardenas, A., Qi, C., Han, Y.Y., et al. (2021). [Exposure to violence, chronic stress, nasal DNA methylation, and atopic asthma in children](https://onlinelibrary.wiley.com/doi/10.1002/ppul.25372). *Pediatric Pulmonology*.
+* <b>Yan, Q.</b>, Forno, E., Cardenas, A., Qi, C., Han, Y.Y., et al. (2021). [Exposure to violence, chronic stress, nasal DNA methylation, and atopic asthma in children](https://onlinelibrary.wiley.com/doi/10.1002/ppul.25372). *Pediatr Pulmonol*.
 * <b>Yan, Q.</b>, Forno, E., Yang, G., Herrera-Luis, E., Pino-Yanes, M., et al. (2020). [A genome-wide association study of asthma hospitalizations in adults](https://www.jacionline.org/article/S0091-6749(20)31224-0/fulltext). *J Allergy Clin Immunol*. <b>Chosen by the Editors to be highlighted in the AAAAI website</b>.
 * <b>Yan, Q.</b>, Forno, E., Herrera-Luis, E., Pino-Yanes, M., Qi, C., et al. (2020). [A genome-wide association study of severe asthma exacerbations in Latino children and adolescents](https://erj.ersjournals.com/content/early/2020/10/02/13993003.02693-2020). *Eur Respir J*.
 * <b>Yan, Q.</b>, Brehm, J., Pino-Yanes, M., Forno, E., Lin, J., et al. (2017). [A meta-analysis of genome-wide association studies of asthma in Puerto Ricans](https://www.ncbi.nlm.nih.gov/pubmed/28461288). *Eur Respir J*. <b>With an accompanying Editorial</b>.
+* Han, Y.Y., <b>Yan, Q.</b>, Chen, W., Celedon, J.C. (2022) [Child maltreatment, anxiety and depression, and asthma among British adults in the UK Biobank](https://erj.ersjournals.com/content/early/2022/03/10/13993003.03160-2021.long) *Eur Respir J*.
+* Camiolo, M., Zhou, X., Oriss, T., <b>Yan, Q.</b>, Gorry, M., et al. (2021) [High dimensional profiling clusters asthma severity by lymphoid and non
+lymphoid status](https://www.sciencedirect.com/science/article/pii/S2211124721002886). *Cell Rep*.
 * Han, Y.Y., <b>Yan, Q.</b>, Chen, W., Forno, E., Celedon, J.C. (2020). [Serum insulin-like growth factor-1, asthma, and lung function among British adults](https://www.annallergy.org/article/S1081-1206(20)31243-6/fulltext). *Annals of Allergy, Asthma and Immunology*.
 * Yang, G., Han, Y.Y., Forno, E., <b>Yan, Q.</b>, Rosser, F., et al. (2020). [Glycated Hemoglobin A1c, Lung Function, and Hospitalizations Among Adults with Asthma](https://www.sciencedirect.com/science/article/abs/pii/S2213219820306164?via%3Dihub). *J Allergy Clin Immunol Pract*.
 * Kim, S., Forno, E., Zhang, R., Park, H.J., Xu, Z., <b>Yan, Q.</b>, et al. (2020). [Expression Quantitative Trait Methylation Analysis Reveals Methylomic Associations With Gene Expression in Childhood Asthma](https://journal.chestnet.org/article/S0012-3692(20)31716-5/fulltext). *Chest*.
@@ -40,3 +43,4 @@ Alzheimer's Disease
 ![Editing a markdown file for a talk](/images/alzheimer.png) 
 * <b>Yan, Q.</b>, Nho, K., Del-Aguila, J.L., Wang, X., Risacher, S.L., et al. (2018). [Genome-wide association study of brain amyloid deposition as measured by Pittsburgh Compound-B (PiB)-PET imaging](https://www.ncbi.nlm.nih.gov/pubmed/30361487). *Mol Psychiatry*.
 * Kamboh, M.I.^, Fan, K.H.^, <b>Yan, Q.</b>^, Beer, J.C., Snitz, B.E., et al. (2019). [Population-based genome-wide association study of cognitive decline in older adults free of dementia: identification of a novel locus for the attention domain](https://www.ncbi.nlm.nih.gov/pubmed/30954325). *Neurobiol Aging*. ^co-first-author.
+* Ye, Z., Mo, C., Ke, H., Yan, Q., Chen, C. et al. (2021). [Meta Analysis of Transcriptome Wide Association Studies across 13 Brain Tissues Identified Novel Clusters of Genes Associated with Nicotine Addiction](https://www.mdpi.com/2073-4425/13/1/37). *Genes*.
