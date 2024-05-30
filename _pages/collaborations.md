@@ -40,11 +40,11 @@ Age-related Macular Degeneration
 
 Adverse Pregnancy Outcomes
 -
-![Editing a markdown file for a talk](/images/AMD.png)
+![Editing a markdown file for a talk](/images/MFM.png)
 * <b>Yan, Q.</b>, Blue, N.R., Truong, B., Zhang, Y., Guerrero, R.F., et al. (2023). [Genetic associations with dynamic placental proteins identify causal biomarkers for hypertension in pregnancy](https://www.medrxiv.org/content/10.1101/2023.05.25.23290460v1.full.pdf). *MedRxiv (under revision in Am J Obstet Gynecol)*.
 * <b>Yan, Q.</b>, Guerrero, R.F., Khan, R.R., Surujnarine, A.A., Wapner, R.J., et al. (2023). [Searching and visualizing genetic associations of pregnancy traits by using GnuMoM2b](https://academic.oup.com/genetics/article/225/2/iyad151/7246597). *Genetics*.
 * Clark-Sevilla, A., Lin, Y., Saxena, A., <b>Yan, Q.</b>, Wapner, R.J., et al. (2024) [Diving into CDC pregnancy data in the United States: longitudinal study and interactive application](https://academic.oup.com/jamiaopen/article/7/1/ooae024/7632594?login=true). *JAMIA Open*.
-* Tang, I., Mallia, D., Yan, Q., Pe’er, I., Raja, A., et al. (2023) [A scoping review of preterm birth risk factors](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0043-1775564). *Am J Perinatol*
+* Tang, I., Mallia, D., <b>Yan, Q.</b>, Pe’er, I., Raja, A., et al. (2023) [A scoping review of preterm birth risk factors](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/s-0043-1775564). *Am J Perinatol*
 
 Alzheimer's Disease
 -
