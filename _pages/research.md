@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Latest methodology research"
-permalink: /research/
+title: "Methodology research"
+permalink: /Method/
 author_profile: true
 ---
 
