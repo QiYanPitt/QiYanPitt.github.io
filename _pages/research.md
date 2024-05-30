@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Methodology research"
-permalink: /Research/
+permalink: /research/
 author_profile: true
 ---
 
