@@ -41,8 +41,9 @@ Age-related Macular Degeneration
 Adverse Pregnancy Outcomes
 -
 ![Editing a markdown file for a talk](/images/AMD.png)
-* <b>Yan, Q.</b>, Weeks, D.E., Xin, H., Swaroop, A., Chew, E.Y., et al. (2020). [Deep-learning-based Prediction of Late Age-Related Macular Degeneration Progression](https://www.nature.com/articles/s42256-020-0154-9.epdf?author_access_token=ytmgnX1807mH5XIqctD70NRgN0jAjWel9jnR3ZoTv0PEfAOwkHt47te-T29RleTSe9oHXYrJmvV2kI8DSjCGvvJJ2UNPwgtcl5H-tThiXXjuj_zR8X1zt5G1gXJJEL0oiV6ttgo-2tQKy4cqFw3lQw%3D%3D). *Nature Machine Intelligence*.
-* <b>Yan, Q.</b>, Jiang, Y., Huang, H., Swaroop, A., Chew, E.Y., et al. (2020). [GWAS-based Machine Learning for Prediction of Age-Related Macular Degeneration Risk](https://www.medrxiv.org/content/10.1101/19006155v1). *TVST*.
+* <b>Yan, Q.</b>, Blue, N.R., Truong, B., Zhang, Y., Guerrero, R.F., et al. (2023). [Genetic associations with dynamic placental proteins identify causal biomarkers for hypertension in pregnancy](https://www.medrxiv.org/content/10.1101/2023.05.25.23290460v1.full.pdf). *MedRxiv (under revision in Am J Obstet Gynecol)*.
+* <b>Yan, Q.</b>, Guerrero, R.F., Khan, R.R., Surujnarine, A.A., Wapner, R.J., et al. (2023). [Searching and visualizing genetic associations of pregnancy traits by using GnuMoM2b](https://academic.oup.com/genetics/article/225/2/iyad151/7246597). *Genetics*.
+* 
 
 Alzheimer's Disease
 -
