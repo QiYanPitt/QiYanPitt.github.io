@@ -10,7 +10,7 @@ Searching and visualizing genetic associations of pregnancy traits
 -
 <iframe src="/images/gnumom2b.jpeg#toolbar=0" width="90%" height="256px"></iframe>
 * Website: [https://gnumom2b.cumcobgyn.org/](https://gnumom2b.cumcobgyn.org/)
-* <b>Yan, Q.</b>, Weeks, D.E., Xin, H., Swaroop, A., Chew, E.Y., Huang, H., D
+* <b>Yan, Q.</b>, Guerrero, R.F., Khan, R.R., Surujnarine, A.A., Wapner, R.J., et al. (2023). [Searching and visualizing genetic associations of pregnancy traits by using GnuMoM2b](https://academic.oup.com/genetics/article/225/2/iyad151/7246597). *Genetics*.
 
 Late AMD Fundus Image Prediction
 -
