@@ -7,8 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-1. <b>Yan, Q.</b>, Blue, N.R., Truong, B., Zhang, Y., Guerrero, R.F. (2023). [Genetic associations with dynamic placental proteins identify causal biomarkers for hypertension in pregnancy](https://www.medrxiv.org/content/10.1101/2023.05.25.23290460v1.full.pdf). *MedRxiv (under revision in Am J Obstet Gynecol)*.
-2. <b>Yan, Q.</b>, Guerrero, R.F., Khan, R.R., Surujnarine, A.A., Wapner, R.J. (2023). [Searching and visualizing genetic associations of pregnancy traits by using GnuMoM2b](https://academic.oup.com/genetics/article/225/2/iyad151/7246597). *Genetics*.
+1. <b>Yan, Q.</b>, Blue, N.R., Truong, B., Zhang, Y., Guerrero, R.F., et al. (2023). [Genetic associations with dynamic placental proteins identify causal biomarkers for hypertension in pregnancy](https://www.medrxiv.org/content/10.1101/2023.05.25.23290460v1.full.pdf). *MedRxiv (under revision in Am J Obstet Gynecol)*.
+2. <b>Yan, Q.</b>, Guerrero, R.F., Khan, R.R., Surujnarine, A.A., Wapner, R.J., et al. (2023). [Searching and visualizing genetic associations of pregnancy traits by using GnuMoM2b](https://academic.oup.com/genetics/article/225/2/iyad151/7246597). *Genetics*.
 3. <b>Yan, Q.</b>, Forno, E., Celedon, J.C., Chen. W., Weeks, D.E. (2021). [Allele-specific method for testing the association between molecular quantitative traits and phenotype-genotype interaction](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab554/6330611). *Bioinformatics*.
 4. <b>Yan, Q.</b>, Forno, E., Celedon, J.C., Chen. W. (2021). [A region-based method for causal mediation analysis of DNA methylation data](https://www.tandfonline.com/doi/abs/10.1080/15592294.2021.1900026?journalCode=kepi20). *Epigenetics*.
 5. <b>Yan, Q.</b>, Forno, E., Cardenas, A., Qi, C., Han, Y.Y., et al. (2021). [Exposure to violence, chronic stress, nasal DNA methylation, and atopic asthma in children](https://onlinelibrary.wiley.com/doi/10.1002/ppul.25372). *Pediatric Pulmonology*.
