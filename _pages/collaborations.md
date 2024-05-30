@@ -38,6 +38,12 @@ Age-related Macular Degeneration
 * <b>Yan, Q.</b>, Ding, Y., Liu, Y., Sun, T., Fritsche, L.G., et al. (2018). [Genome-wide analysis of disease progression in age-related macular degeneration](https://academic.oup.com/hmg/article/27/5/929/4810717). *Hum Mol Genet* 27, 929-940.
 * Ding, Y., Liu, Y., <b>Yan, Q.</b>, Fritsche, L.G., Cook, R.J., et al. (2017). [Bivariate Analysis of Age-Related Macular Degeneration Progression Using Genetic Risk Scores](http://www.genetics.org/content/early/2017/03/21/genetics.116.196998). *Genetics*.
 
+Adverse Pregnancy Outcomes
+-
+![Editing a markdown file for a talk](/images/AMD.png)
+* <b>Yan, Q.</b>, Weeks, D.E., Xin, H., Swaroop, A., Chew, E.Y., et al. (2020). [Deep-learning-based Prediction of Late Age-Related Macular Degeneration Progression](https://www.nature.com/articles/s42256-020-0154-9.epdf?author_access_token=ytmgnX1807mH5XIqctD70NRgN0jAjWel9jnR3ZoTv0PEfAOwkHt47te-T29RleTSe9oHXYrJmvV2kI8DSjCGvvJJ2UNPwgtcl5H-tThiXXjuj_zR8X1zt5G1gXJJEL0oiV6ttgo-2tQKy4cqFw3lQw%3D%3D). *Nature Machine Intelligence*.
+* <b>Yan, Q.</b>, Jiang, Y., Huang, H., Swaroop, A., Chew, E.Y., et al. (2020). [GWAS-based Machine Learning for Prediction of Age-Related Macular Degeneration Risk](https://www.medrxiv.org/content/10.1101/19006155v1). *TVST*.
+
 Alzheimer's Disease
 -
 ![Editing a markdown file for a talk](/images/alzheimer.png) 
